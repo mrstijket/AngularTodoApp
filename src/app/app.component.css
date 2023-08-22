@@ -1,0 +1,10 @@
+.larger{
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+}
+
+.align-text{
+    font-size: large;
+    vertical-align: middle;
+}
